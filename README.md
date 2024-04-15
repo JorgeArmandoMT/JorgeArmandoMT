@@ -5,8 +5,8 @@
 </p>
 <br>
 
-- 🌱 I’m currently expanding my skills in Web Development and mastering various programming languages
 - 💼 See my portfolio (CV) at [https://jorge-armando-mt.vercel.app/](https://jorge-armando-mt.vercel.app/) for more information about my work experience and projects.
+- 🌱 I’m currently expanding my skills in Web Development and mastering various programming languages
 
 <!-- ⚡ Fun fact : Coffee ,  Coffee , Coffee. -->
 

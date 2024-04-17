@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Armando Mejia</h1>
-<h3 align="center">Software Developer🌟</h3>
+<h3 align="center">Software Full Stack Developer🌟</h3>
 <p>
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>

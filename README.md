@@ -5,7 +5,7 @@
 </p>
 <br>
 
-- 💼 See my portfolio (CV) at [https://jorge-armando-mt.vercel.app/](https://jorge-armando-mt.vercel.app/) for more information about my work experience and projects.
+- <strong>💼 See my portfolio (CV) at [https://jorge-armando-mt.vercel.app/](https://jorge-armando-mt.vercel.app/)</strong> for more information about my work experience and projects. 
 - 🌱 I’m currently expanding my skills in Web Development and mastering various programming languages
 
 <!-- ⚡ Fun fact : Coffee ,  Coffee , Coffee. -->
